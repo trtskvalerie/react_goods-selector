@@ -1,0 +1,2 @@
+body{font-family:Arial,Helvetica,sans-serif;font-size:larger;margin:40px}ul{list-style:none}li,ul{padding:0;margin:0}.title-container{display:flex;align-items:center;grid-gap:40px;gap:40px}.title-button{height:40px;width:40px;text-align:center}.good-container{display:flex;justify-content:space-between;align-items:center;max-width:300px;margin-bottom:20px}.good-container:last-child{margin-bottom:0}.good--selected{background-color:#7fffd4}.button{font-size:inherit}
+/*# sourceMappingURL=main.9a260f15.chunk.css.map */
